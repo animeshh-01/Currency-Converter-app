@@ -46,7 +46,7 @@ git clone https://github.com/yourusername/Currency-Converter-app.git
 
 ## 👨‍💻 Author
 
-**Animesh Roy**
+**Animesh **
 
 ---
 
