@@ -26,7 +26,6 @@ It allows users to convert one currency to another using real-time exchange rate
 ## 📸 Screenshots
 
 ![App Screenshot](./screenshot.png)
-
 ---
 
 ## 🌐 Live Demo
